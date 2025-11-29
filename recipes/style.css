@@ -1,0 +1,92 @@
+.Heading1{
+    text-align: center;
+    border: solid black;
+    background-color: salmon;
+    color: rgb(6, 96, 0);
+}
+
+a {
+  display: inline-block; 
+  text-decoration: none;
+  border: solid black;
+}
+
+.Heading_shrimp{
+    text-align: center;
+    border: solid black;
+    background-color: yellow;
+    color:red;
+}
+
+img{
+    border: solid black;
+    display: block;
+    margin: 20px auto;
+}
+.by{
+    display: block;
+    width: fit-content;
+    background-color: black;
+    color: antiquewhite;
+}
+
+.home{
+    display: inline;
+    border: solid black;
+    color: red;
+    font-weight: 700;
+}
+
+.des{
+    display: block;
+    width: fit-content;
+    border: solid black;
+    color: purple;
+    background-color: aqua;
+}
+
+.ing{
+    display: inline;
+    border: solid black;
+    color: coral;
+    background-color: darkmagenta;
+}
+
+.steps{
+    display: inline;
+    border: solid black;
+    color: darkblue;
+    background-color: darkorange;
+}
+
+.Heading_muffin{
+    text-align: center;
+    border: solid black;
+    background-color: blue;
+    color: aqua;
+}
+
+.Heading_soup{
+    text-align: center;
+    border: solid black;
+    color: rgb(0, 255, 225);
+    background-color: blueviolet;
+}
+
+.shrimp{
+    margin: 30px 40px;
+    background-color: yellow;
+    color:red;
+}
+
+.muffin{
+    margin: 30px 40px;
+    background-color: blue;
+    color: aqua;
+}
+
+.soup{
+    margin: 30px 40px;
+    color: rgb(0, 255, 225);
+    background-color: blueviolet;
+}
